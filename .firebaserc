@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fbclone-28c4d": {
+      "hosting": {
+        "facebook-clone": [
+          "fbclone-28c4d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fbclone-28c4d"
+  }
+}
